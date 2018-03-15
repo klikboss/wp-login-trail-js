@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    overflow: hidden;
+}
+
+.trail {
+    position: absolute;
+    z-index: -1;
+    height: 600px;
+}
